@@ -211,7 +211,9 @@ header {
 .progress-line .c {
   width: 50%;
 }
-
+.progress-line .React {
+  width: 50%;
+}
 .bar .progress-line span::before {
   position: absolute;
   content: "";
