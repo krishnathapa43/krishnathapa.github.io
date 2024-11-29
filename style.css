@@ -255,7 +255,9 @@ header {
 .progress-line .c::after {
   content: "50%";
 }
-
+.progress-line .React::after {
+  content: "50%";
+}
 .navbar.solid {
   background-color: #07374a;
   transition: background-color 1s ease 0s;
